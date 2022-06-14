@@ -1,0 +1,15 @@
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/security/WebSecurityConfig.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/dto/UserDTO.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/service/UserService.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/model/Phone.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/util/UserUtils.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/security/JWTAuthorizationFilter.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/util/AuthEntryPointJwt.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/service/Crud.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/dto/PhoneDTO.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/repository/UserRepository.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/util/JWTTokenUtil.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/payload/MessageResponse.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/model/User.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/controller/UserController.java
+/home/davidjech/Desktop/github/AndreSPy1/nisum/src/main/java/com/prueba/nisumtest/NisumtestApplication.java
